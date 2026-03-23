@@ -46,8 +46,3 @@ CatlabGraphvizExt = "Graphviz_jll"
 CatlabMetaGraphsExt = "MetaGraphs"
 CatlabSCSExt = "SCS"
 CatlabTikzPicturesExt = "TikzPictures"
-
-
-Tables = "1"
-TikzPictures = "3"
-julia = "1.9"
